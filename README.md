@@ -1,4 +1,4 @@
-# RC Car Control with Voice Commands
+# Voice Control Car
 
 ## Overview
 
@@ -73,6 +73,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 Feel free to modify and extend the code to suit your RC car's specific requirements or hardware setup.
 
 
-**Enjoy Your Voice-Controlled RC Car**
+##Enjoy Your Voice-Controlled RC Car##
 
 Control your RC car like never before with voice commands. Have fun experimenting with this project and feel free to share your innovations with the community.
